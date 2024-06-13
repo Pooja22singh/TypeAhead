@@ -1,4 +1,5 @@
-# A Typeahead component, also known as an autocomplete or autosuggest component, is a user interface element commonly found in search boxes or form inputs. Its primary function is to provide real-time       suggestions to users as they type, based on the characters entered into the input field. This enhances user experience by reducing the effort required to find relevant information, speeding up data entry, and minimizing errors.
+# A Typeahead component,
+also known as an autocomplete or autosuggest component, is a user interface element commonly found in search boxes or form inputs. Its primary function is to provide real-time       suggestions to users as they type, based on the characters entered into the input field. This enhances user experience by reducing the effort required to find relevant information, speeding up data entry, and minimizing errors.
 
 # This project focuses on providing an offline feature to the Typeahead
   Tries are the ideal data structure for storing autocomplete results.
